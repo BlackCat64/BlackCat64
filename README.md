@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlackCat64
 - 👀 I’m interested in Minecraft modding and software development in general
-- 🌱 I’m currently learning Haskell and C
+- 🌱 I’m currently learning Agile Development
 - Current Project: Big Signs Mod for Minecraft 1.20.1
 
 <!---
