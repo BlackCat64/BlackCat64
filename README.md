@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlackCat64
 - 👀 I’m interested in Minecraft modding and software development in general
 - 🌱 I’m currently learning Agile Development
-- Current Project: Schematic Dependency Checker for the Minecraft Create Mod
+- Current Project: Better Tools and Armor v12.1 - code cleanup
 
 <!---
 BlackCat64/BlackCat64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
