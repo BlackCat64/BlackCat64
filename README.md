@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlackCat64
 - 👀 I’m interested in Minecraft modding and software development in general
 - 🌱 I’m currently learning Agile Development
-- Current Project: Better Tools and Armor v12.1 - code cleanup
+- Current Project: Better Tools and Armor update to 1.21
 
 <!---
 BlackCat64/BlackCat64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
